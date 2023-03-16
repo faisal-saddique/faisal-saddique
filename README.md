@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Faisal</h1>
 <h3 align="center">A passionate IoT Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/81669459ec186752d08de4d29a83e309.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-saddique&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-saddique" /> </p>
 
