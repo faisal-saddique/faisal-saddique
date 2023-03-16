@@ -1,7 +1,8 @@
-[![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)](https://rishavchanda.io)
+[![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)](https://github.com/faisal-saddique)
 
 <h1 align="center">Hi 👋, I'm Faisal</h1>
 <h3 align="center">A passionate IoT Engineer from Pakistan</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/8da45163336fc62161cd3ae7b302d925.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-saddique&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-saddique" /> </p>
 
